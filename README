@@ -1,0 +1,5 @@
+An artificial bee colony (ABC) is an optimization algorithm based on the intelligent foraging behavior of honey bee swarm. 
+The job shop scheduling problem (JSSP) is the problem of assigning the job in the system in a manner that will optimize
+the overall performance, while assuring the correctness of the result. 
+ABC algorithm is proposed in this paper for solving the JSSP with the criterion minimize 
+the maximum completion time (makespan).
